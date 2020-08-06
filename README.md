@@ -1,5 +1,6 @@
 # Hybrid_Parallelism
 
+한 노드에 GPU가 8개 있을때 하이브리드로 하는거 
 
 Please download the dataset on Cori under:
 
